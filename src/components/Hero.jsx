@@ -5,10 +5,10 @@ export function Hero() {
       className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-b from-zinc-900 to-zinc-800"
     >
       <h1 className="text-4xl sm:text-6xl font-bold leading-tight mb-4">
-        Automatizo Procesos con Inteligencia
+        Automatización a tu Medida
       </h1>
       <p className="text-lg sm:text-xl max-w-2xl text-zinc-300 mb-8">
-        Soy un Ingeniero en Sistemas enfocado en bots conversacionales, integraciones y agentes IA que piensan por vos.
+        Ingeniero en Sistemas especializado en automatizar procesos con IA, bots conversacionales e integraciones que ahorran tiempo y potencian resultados.
       </p>
       <a
         href="#projects"

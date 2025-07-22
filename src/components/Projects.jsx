@@ -5,13 +5,14 @@ export function Projects() {
         descripcion: "Bot conversacional que consulta el estado de Zabbix, alerta al equipo y traduce lenguaje natural a comandos útiles.",
       },
       {
-        titulo: "Backups SSH Automatizados",
-        descripcion: "Sistema para realizar y registrar backups automáticos de switches Cisco mediante Netmiko + InfluxDB.",
+        titulo: "Automatización de Infraestructura Cisco",
+        descripcion: "Desarrollo de herramientas para realizar backups y actualizaciones de firmware en switches y routers Cisco usando SSH (Netmiko), con registro de estado en InfluxDB y visualización de resultados en Grafana.",
       },
       {
-        titulo: "Carga Inteligente de Productos",
-        descripcion: "Automatización para extraer productos desde PDFs y subirlos al sistema Bendia con IA.",
-      },
+        titulo: "Desarrollo de Sistemas a Medida",
+        descripcion: "Soluciones a medida para automatizar procesos empresariales, gestionar información o crear herramientas internas. Desde paneles web hasta carga inteligente de datos con IA.",
+      }
+
     ];
     return (
       <section

@@ -6,11 +6,10 @@ export function About() {
     >
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl sm:text-4xl font-bold mb-4">Sobre Mí</h2>
-        <p className="text-lg text-zinc-400">
-          Soy un Ingeniero en Sistemas de Información con pasión por automatizar tareas y procesos reales.
-          Me dedico al desarrollo de bots conversacionales, agentes inteligentes y soluciones que liberan tiempo
-          y mejoran la eficiencia operativa.
-        </p>
+          <p className="text-lg text-zinc-400">
+            Soy Ingeniero en Sistemas de Información con foco en automatización inteligente. Diseño soluciones reales con IA, APIs y bots que simplifican tareas, reducen errores y optimizan el día a día de equipos y empresas.
+          </p>
+
       </div>
     </section>
   );
