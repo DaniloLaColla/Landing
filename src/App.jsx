@@ -10,7 +10,7 @@ import { WhatsappButton } from "./components/WhatsappButton";
 
 export default function App() {
   return (
-    <main className="bg-zinc-900 text-white font-sans scroll-smooth">
+    <main className="bg-zinc-900 text-white font-sans scroll-smooth relative overflow-x-hidden">
       <Navbar />
       <section id="hero"><Hero /></section>
       <section id="about"><About /></section>

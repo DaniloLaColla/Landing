@@ -1,7 +1,8 @@
 export function Stack() {
-    const skills = [
-      "Python", "JavaScript", "Django", "React", "TailwindCSS",
-      "GPT", "Zabbix API", "Telegram Bot", "n8n", "Docker"
+   const skills = [
+      "Python", "JavaScript", "GPT", "React", "TailwindCSS",
+      "PostgreSQL", "Vite", "APIs REST", "InfluxDB", "Grafana",
+      "Telegram Bot", "Django", "n8n"
     ];
     return (
       <section
