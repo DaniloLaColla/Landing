@@ -10,7 +10,7 @@ export function About() {
             Sobre mí
           </span>
         </h2>
-          <p className="text-lg text-zinc-400">
+          <p className="text-lg text-zinc-300">
             Soy Ingeniero en Sistemas de Información con foco en automatización inteligente. Diseño soluciones reales con IA, APIs y bots que simplifican tareas, reducen errores y optimizan el día a día de equipos y empresas.
           </p>
 

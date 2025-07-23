@@ -33,12 +33,10 @@ export function Projects() {
           {proyectos.map((p, i) => (
             <div
               key={i}
-              className="bg-gradient-to-br from-zinc-800 to-zinc-900 border border-zinc-700 rounded-xl shadow-md p-6 transition-all duration-300 hover:from-cyan-500 hover:to-indigo-500 hover:scale-105 hover:shadow-cyan-500/30"
+              className="rounded-xl p-6 shadow-lg bg-zinc-800 text-white border border-zinc-700 transition-all duration-300 hover:bg-gradient-to-r hover:from-cyan-500 hover:via-purple-500 hover:to-indigo-500 hover:bg-[length:200%_200%] hover:animate-gradient-x hover:scale-105 hover:brightness-110"
             >
-              <h3 className="text-xl font-semibold mb-2 text-white">
-                {p.titulo}
-              </h3>
-              <p className="text-zinc-300">{p.descripcion}</p>
+              <h3 className="text-xl font-semibold mb-2">{p.titulo}</h3>
+              <p className="text-sm text-zinc-100">{p.descripcion}</p>
             </div>
           ))}
         </div>

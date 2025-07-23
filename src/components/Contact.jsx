@@ -12,7 +12,7 @@ export function Contact() {
             Contacto
           </span>
         </h2>
-        <p className="mb-8 text-zinc-400 text-lg">
+        <p className="mb-8 text-zinc-300 text-lg">
           ¿Tenés una idea, proyecto o querés automatizar procesos? <br /> Escribime, me encantaría ayudarte.
         </p>
       </div>
